@@ -1,7 +1,7 @@
 # house-marketplace
 House Marketplace is a React app that can be used to rent/sell/buy real estate.
 
-The app design is taken from the course,the backend is made with Firebase.
+The app design is taken from the course and app is origginaly adapted to smartphones, the backend is made with Firebase.
 
 Made from Udemy course: "React Front To Back" by Brad Traversy.
 
